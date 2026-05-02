@@ -1,0 +1,8 @@
+{
+  "commonRequiredDocuments": ["身份证", "银行卡", "个人信息登记表"],
+  "typeRequiredDocuments": {
+    "full_time": ["学历证明", "劳动合同"],
+    "intern": ["学生证", "实习协议"],
+    "contractor": ["服务协议"]
+  }
+}

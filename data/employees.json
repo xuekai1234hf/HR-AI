@@ -1,0 +1,23 @@
+[
+  {
+    "id": "E001",
+    "name": "李雷",
+    "type": "full_time",
+    "startDate": "2026-05-06",
+    "submittedDocuments": ["身份证", "银行卡", "个人信息登记表", "学历证明", "劳动合同"]
+  },
+  {
+    "id": "E002",
+    "name": "韩梅梅",
+    "type": "intern",
+    "startDate": "2026-05-08",
+    "submittedDocuments": ["身份证", "银行卡", "个人信息登记表", "学生证"]
+  },
+  {
+    "id": "E003",
+    "name": "王五",
+    "type": "contractor",
+    "startDate": "2026-05-10",
+    "submittedDocuments": ["身份证", "服务协议"]
+  }
+]
