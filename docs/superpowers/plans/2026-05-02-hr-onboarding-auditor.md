@@ -968,7 +968,7 @@ Expected:
 employeeId,employeeName,employeeType,riskLevel,completionRate,missingDocuments
 E001,李雷,full_time,OK,100%,
 E002,韩梅梅,intern,WARN,80%,实习协议
-E003,王五,contractor,BLOCKED,67%,银行卡; 个人信息登记表
+E003,王五,contractor,BLOCKED,50%,银行卡; 个人信息登记表
 ```
 
 - [ ] **Step 7: Commit CLI orchestration**
@@ -1020,7 +1020,7 @@ Expected:
 employeeId,employeeName,employeeType,riskLevel,completionRate,missingDocuments
 E001,李雷,full_time,OK,100%,
 E002,韩梅梅,intern,WARN,80%,实习协议
-E003,王五,contractor,BLOCKED,67%,银行卡; 个人信息登记表
+E003,王五,contractor,BLOCKED,50%,银行卡; 个人信息登记表
 ```
 
 - [ ] **Step 3: Review against spec**
